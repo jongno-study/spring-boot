@@ -1,4 +1,4 @@
-package com.sjaqjwor.springboot;
+package com.sjaqjwor.springbootkai;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

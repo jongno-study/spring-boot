@@ -1,4 +1,4 @@
-package com.sjaqjwor.springboot.hello;
+package com.sjaqjwor.springbootkai.hello;
 
 import static org.hamcrest.Matchers.*;
 import static org.junit.Assert.*;
